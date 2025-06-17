@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nulab-backlog-mcp-server-badge.png)](https://mseep.ai/app/nulab-backlog-mcp-server)
+
 # Backlog MCP Server
 
 An MCP server implementation that integrates the Backlog API.
